@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "googleapis": "^105.0.0"
+  },
+  "name": "gmail-auto-replier",
+  "version": "1.0.0",
+  "description": "Automatically replies to incoming mails from your gmail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "googleapi",
+    "gmail"
+  ],
+  "author": "Akshat Agrawal",
+  "license": "ISC"
+}
